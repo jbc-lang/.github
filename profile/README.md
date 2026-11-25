@@ -1,16 +1,16 @@
 # jBC Language
 
 An unofficial reference guide and an experimental compiler for jBC, the
-MultiValue BASIC dialect used in jBASE and Temenos T24.
+MultiValue BASIC dialect used in jBASE and Temenos T24. Its grammar has been tested
+against the T24 R07 and R10 source corpora.
 
 - **Read the guide** at [jbc-lang.org](https://jbc-lang.org/). The
   [jbc-language repository](https://github.com/jbc-lang/jbc-language) contains
   the guide’s source, grammar, and function catalogue.
 - **Run jBC in your browser** with the [jBC Playground](https://online.jbc-lang.org/).
 - **Try the native compiler** with [jbcc](https://github.com/jbc-lang/jbcc), an
-  MIT-licensed jBC-to-C compiler with runnable examples. Its grammar has
-  been tested against T24 R07 and R10 sources, and runtime support is
-  still in progress.
+  MIT-licensed jBC-to-C compiler with runnable examples. Runtime support
+  is still in progress.
 
 ## jbcc is on PyPI
 
