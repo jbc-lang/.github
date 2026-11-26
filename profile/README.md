@@ -16,7 +16,8 @@ against the T24 R07, R10 and R13 source corpora.
 
 [jbcc 0.3.0](https://pypi.org/project/jbcc/0.3.0/) is available on PyPI. It
 translates every Temenos program, subroutine and function in the T24 R07,
-R10 and R13 corpora to C99. Run this example from any directory with uv and a C99 compiler.
+R10 and R13 corpora to C99. Run this example from any directory with uv and
+a C99 compiler.
 
 ```sh
 printf '%s\n' 'CRT "Hello, jBC!"' > hello.b
