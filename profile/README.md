@@ -14,7 +14,7 @@ against the T24 R07, R10, R13 and R19 source corpora.
 
 ## jbcc is on PyPI
 
-[jbcc 0.5.0](https://pypi.org/project/jbcc/0.5.0/) is available on PyPI. It
+[jbcc 0.6.0](https://pypi.org/project/jbcc/0.6.0/) is available on PyPI. It
 translates every Temenos program, subroutine and function in the T24 R07,
 R10 and R13 corpora to C99, and 39,669 of the 39,675 units of the
 componentised R19 corpus, with component calls checked against their
