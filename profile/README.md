@@ -2,7 +2,7 @@
 
 An unofficial reference guide and an experimental compiler for jBC, the
 MultiValue BASIC dialect used in jBASE and Temenos T24. Its grammar has been tested
-against the T24 R07, R10 and R13 source corpora.
+against the T24 R07, R10, R13 and R19 source corpora.
 
 - **Read the guide** at [jbc-lang.org](https://jbc-lang.org/). The
   [jbc-language repository](https://github.com/jbc-lang/jbc-language) contains
@@ -14,9 +14,11 @@ against the T24 R07, R10 and R13 source corpora.
 
 ## jbcc is on PyPI
 
-[jbcc 0.3.0](https://pypi.org/project/jbcc/0.3.0/) is available on PyPI. It
+[jbcc 0.4.0](https://pypi.org/project/jbcc/0.4.0/) is available on PyPI. It
 translates every Temenos program, subroutine and function in the T24 R07,
-R10 and R13 corpora to C99. Run this example from any directory with uv and
+R10 and R13 corpora to C99, and 39,669 of the 39,675 units of the
+componentised R19 corpus, with component calls checked against their
+declarations. Run this example from any directory with uv and
 a C99 compiler.
 
 ```sh
