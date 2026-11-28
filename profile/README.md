@@ -14,6 +14,11 @@ against the T24 R07, R10, R13 and R19 source corpora.
 - **Edit jBC in VS Code** with the [jBC extension](https://marketplace.visualstudio.com/items?itemName=alexander-demin.jbc-vscode).
   It highlights jBC programs (`.b`) and T24 `TESTCASE` sources (`.tut`).
   [Source code](https://github.com/jbc-lang/jbc-vscode).
+- **Write jBC with a coding agent** using the
+  [jBC skills](https://github.com/jbc-lang/jbc-skills) for Claude Code, Codex
+  and other agents. One answers from the guide; the other writes jBC, runs it
+  with jbcc and checks the output. Install them with
+  `npx skills add jbc-lang/jbc-skills`.
 
 ## jbcc is on PyPI
 
