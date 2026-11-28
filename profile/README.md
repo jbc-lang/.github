@@ -11,6 +11,9 @@ against the T24 R07, R10, R13 and R19 source corpora.
 - **Try the native compiler** with [jbcc](https://github.com/jbc-lang/jbcc), an
   MIT-licensed jBC-to-C compiler with runnable examples. Runtime support
   is still in progress.
+- **Edit jBC in VS Code** with the [jBC extension](https://marketplace.visualstudio.com/items?itemName=alexander-demin.jbc-vscode).
+  It highlights jBC programs (`.b`) and T24 `TESTCASE` sources (`.tut`).
+  [Source code](https://github.com/jbc-lang/jbc-vscode).
 
 ## jbcc is on PyPI
 
